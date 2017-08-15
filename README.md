@@ -11,6 +11,10 @@ A script that queries OpenStreetMap using AWS Athena for buildings in a given bo
   ```bash
     $ pip install -r requirements.txt
   ```
+3. Copy the `.env` file and fill it
+  ```bash
+    $ cp .env.example .env
+  ```
 
 ## Run
 ```bash
